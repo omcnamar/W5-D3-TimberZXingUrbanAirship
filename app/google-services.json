@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241729552082",
+    "firebase_url": "https://w5d3timberzxingurbanairship.firebaseio.com",
+    "project_id": "w5d3timberzxingurbanairship",
+    "storage_bucket": "w5d3timberzxingurbanairship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241729552082:android:78332d61f2bad221",
+        "android_client_info": {
+          "package_name": "com.olegsagenadatrytwo.w5_d3_timberzxingurbanairship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241729552082-vl28tatqnn071u5c2l8nbpdjeqkpe9kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAijCzCa0aSusF3pp--lu9-P1brwTTHgQg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
